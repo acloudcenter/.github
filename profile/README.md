@@ -3,7 +3,7 @@
 
 ## My name is Josh and this my building space.
 
-A Cloud Center is my space for building projects, solving real problems, and experimenting with new ideas. I spend my time creating systems that bring together cloud infrastructure, automation, Python, React, and AI with a strong focus on real time applications.
+A Cloud Center is my space for building projects, solving real problems, and experimenting with new ideas. I spend my time creating systems that bring together cloud infrastructure, automation, Python, React, AI, and real-time technologies.
 
 Most of my work today revolves around collaboration and voice technology. That includes building conversational agents, experimenting with and integrating voice models, pipelines, and underlying infrastructure. I also enjoy building useful tools from Cisco and SIP room systems.
 
