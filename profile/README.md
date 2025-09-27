@@ -1,9 +1,7 @@
-# Welcome to A Cloud Center! My name is Josh and this my building space.
+# Welcome to A Cloud Center
 ![A Cloud Center](https://github.com/user-attachments/assets/43196f63-33bb-4f67-be5b-76fbaeb2ccd9)
 
 ## My name is Josh and this my building space.
-
-# Welcome to A Cloud Center
 
 A Cloud Center is my space for building projects, solving real problems, and experimenting with new ideas. I spend my time creating systems that bring together cloud infrastructure, automation, Python, React, and AI with a strong focus on real time applications.
 
